@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Compatible](https://img.shields.io/badge/Claude%20Code-Compatible-blue.svg)](https://docs.anthropic.com/en/docs/claude-code)
-[![Workflow Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/yourusername/subagent-context-engineering-workflow)
+[![Workflow Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/jdrolls/subagent-context-engineering-workflow)
 
 ## Overview
 
@@ -694,4 +694,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ready to transform your development workflow?** Start with a simple PRD and watch the agents coordinate to build your application faster than ever before.
 
-[Get Started](#quick-start) | [View Examples](#real-world-examples) | [Join Community](https://github.com/yourusername/subagent-context-engineering-workflow/discussions)
+[Get Started](#quick-start) | [View Examples](#real-world-examples) | [Join Community](https://github.com/jdrolls/subagent-context-engineering-workflow/discussions)
